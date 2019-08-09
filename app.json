@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "story-teller",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
